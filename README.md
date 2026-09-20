@@ -12,7 +12,7 @@
   <a href="https://github.com/harytechie">
     <img src="https://img.shields.io/badge/GitHub-harytechie-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://portfolio-rwzg.vercel.app/">
+  <a href="https://my-portfolio-eta-seven-38.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/hari-haran-749aa92b4">
@@ -38,7 +38,7 @@
 - 🤖 Exploring **AI/ML, Computer Vision and NLP**
 - 🧠 Interested in turning ideas into **real, deployable software**
 - 🌱 Currently strengthening **Java, Python, React, Spring Boot and Machine Learning**
-- 🌐 Portfolio: **[portfolio-rwzg.vercel.app](https://portfolio-rwzg.vercel.app/)**
+- 🌐 Portfolio: **[my-portfolio-eta-seven-38.vercel.app](https://my-portfolio-eta-seven-38.vercel.app/)**
 
 ---
 
@@ -117,7 +117,7 @@ AI-assisted semantic mapping of Course Outcomes to Program Outcomes using transf
 
 Responsive full-stack shopping experience with authentication, cart and cloud-backed data.
 
-🔗 [Portfolio](https://portfolio-rwzg.vercel.app/)
+🔗 [Portfolio](https://my-portfolio-eta-seven-38.vercel.app/)
 
 </td>
 </tr>
@@ -181,7 +181,7 @@ Responsive full-stack shopping experience with authentication, cart and cloud-ba
 
 <div align="center">
 
-<a href="https://portfolio-rwzg.vercel.app/">
+<a href="https://my-portfolio-eta-seven-38.vercel.app/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge" alt="Portfolio"/>
 </a>
 
