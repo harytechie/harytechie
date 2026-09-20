@@ -129,27 +129,34 @@ Responsive full-stack shopping experience with authentication, cart and cloud-ba
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harytechie&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="GitHub Stats"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harytechie&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+<img src="https://img.shields.io/github/followers/harytechie?label=Followers&style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/harytechie?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars" alt="Total Stars"/>
+<img src="https://img.shields.io/github/public-repos/harytechie?style=for-the-badge&logo=github&logoColor=white&label=Public%20Repos" alt="Public Repositories"/>
+<img src="https://img.shields.io/github/last-commit/harytechie/harytechie?style=for-the-badge&logo=github&logoColor=white&label=Profile%20Updated" alt="Last Commit"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=harytechie&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<a href="https://github.com/harytechie?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
+</a>
 
 </div>
-
----
 
 ## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/harytechie/harytechie/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<a href="https://github.com/harytechie">
+  <img src="https://img.shields.io/badge/🔥_Active_GitHub_Developer-View_Contribution_Graph-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Contribution Graph"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/harytechie?tab=overview&from=2026-01-01&to=2026-12-31">
+  <img src="https://img.shields.io/badge/📈_Contribution_History-Open_on_GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Contribution history"/>
+</a>
 
 </div>
-
----
 
 ## 🎯 What I'm Working On
 
@@ -171,11 +178,18 @@ Responsive full-stack shopping experience with authentication, cart and cloud-ba
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=harytechie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+<img src="https://img.shields.io/badge/🎓_Computer_Science-Final_Year-6C63FF?style=for-the-badge" alt="Computer Science"/>
+<img src="https://img.shields.io/badge/🤖_AI%2FML-Computer_Vision-00D9FF?style=for-the-badge" alt="AI ML"/>
+<img src="https://img.shields.io/badge/💻_Full--Stack-Developer-0A66C2?style=for-the-badge" alt="Full Stack"/>
+<img src="https://img.shields.io/badge/🚀_Projects-Building-FF6B6B?style=for-the-badge" alt="Projects"/>
+
+<br/><br/>
+
+<a href="https://github.com/harytechie?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work"/>
+</a>
 
 </div>
-
----
 
 ## 📫 Let's Connect
 
