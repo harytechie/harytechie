@@ -215,6 +215,6 @@ Responsive full-stack shopping experience with authentication, cart and cloud-ba
 
 ### 💡 Build. Learn. Ship. Repeat. 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=120&section=footer" alt="Footer"/>
+<img src="https://raw.githubusercontent.com/harytechie/harytechie/main/assets/fish-water.svg" alt="Animated underwater fish footer" width="100%"/>
 
 </div>
