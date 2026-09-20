@@ -1,251 +1,197 @@
-# 🚀 Hariharan Chandrasekaran
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=🤖+AI%2FML+Developer;💻+Full-Stack+Engineer;🔬+Problem+Solver" alt="Typing SVG" />
-</div>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-harytechie-181717?style=for-the-badge&logo=github)](https://github.com/harytechie)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hari--haran--749aa92b4-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hari-haran-749aa92b4)
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--rwzg.vercel.app-00D9FF?style=for-the-badge&logo=vercel)](https://portfolio-rwzg.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-haryharan26@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:haryharan26@gmail.com)
-
-</div>
-
----
-
-## 🎓 About Me
-
-Final-year **Computer Science Engineering** student at **EGS Pillay Engineering College** (Anna University) with a passion for **AI/ML**, **Web Development**, and **Computer Vision**. 
-
-Currently building intelligent systems and scalable web applications. Always learning, always building. 🚀
-
-- 🔭 Working on **AI-driven solutions** and **full-stack applications**
-- 🌱 Mastering **PyTorch**, **TensorFlow**, **React**, and **Spring Boot**
-- 💡 Focused on **Production-Ready AI Systems** and **Edge Computing**
-- 📚 **CGPA: 8.2** | **AWS Cloud Certified** | **Rajya Puraskar Awardee**
-- 📫 Open to **Internships** and **Collaboration Opportunities**
-
----
-
-## 🛠️ Tech Stack
+<!-- ========================================================= -->
+<!--                    HARYTECHIE PROFILE                    -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+# 👋 Hi, I'm **Hariharan**
 
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Final-Year+Computer+Science+Engineering+Student;Full-Stack+Developer;AI%2FML+%26+Computer+Vision+Enthusiast;Java+%7C+Python+%7C+React+%7C+Spring+Boot" alt="Typing SVG" />
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p>
+  <a href="https://github.com/harytechie">
+    <img src="https://img.shields.io/badge/GitHub-harytechie-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://portfolio-rwzg.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/hari-haran-749aa92b4">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:haryharan26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+</p>
 
-### Backend & Databases
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22082?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=harytechie&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## 🚀 About Me
 
-### 🤖 **AI for Surgical Workflow Optimization**
-*Academic Capstone Project*
+> **Computer Science Engineering undergraduate focused on building practical AI-powered products and modern web applications.**
 
-Intelligent analysis of laparoscopic surgery videos using deep learning for surgical phase recognition and workflow optimization.
-
-**Tech Stack:** PyTorch | OpenCV | Cholec80 Dataset | Python
-
-**Key Features:**
-- ✨ Multi-class surgical phase classification using temporal CNNs
-- 📊 Post-hoc explainability analysis with attention mechanisms
-- 🎯 Real-time phase detection on video streams
-
-[🔗 Repository](https://github.com/harytechie) | [📄 Research Paper](#)
+- 🎓 Final-year **Computer Science Engineering** student
+- 💻 Building **full-stack applications** with React, Spring Boot, Flask and Node.js
+- 🤖 Exploring **AI/ML, Computer Vision and NLP**
+- 🧠 Interested in turning ideas into **real, deployable software**
+- 🌱 Currently strengthening **Java, Python, React, Spring Boot and Machine Learning**
+- 🌐 Portfolio: **[portfolio-rwzg.vercel.app](https://portfolio-rwzg.vercel.app/)**
 
 ---
 
-### 🚗 **AI Vehicle Detection & Crossing Analysis System**
-*Edge AI Project*
+## 🧰 Tech Stack
 
-Real-time vehicle counting and crossing-time analysis system deployed on Raspberry Pi 4.
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js" alt="Languages"/>
+</p>
 
-**Tech Stack:** YOLOv8 | ByteTrack | OCR | Python | Raspberry Pi 4
+### 🌐 Frontend & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nodejs,express,spring,flask" alt="Frontend and Backend"/>
+</p>
 
-**Achievements:**
-- 🚀 **85% accuracy** in vehicle detection and tracking
-- ⚡ **Real-time performance** on edge device (15 FPS)
-- 📹 Automated license plate recognition + crossing time analysis
-- 📊 Data logging to cloud for analysis
+### 🤖 AI / ML / Data
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="AI ML"/>
+</p>
 
-[🔗 Repository](https://github.com/harytechie/AI-Based-Vehicle-Counting-and-Crossing-Time-Analysis-System)
+### 🗄️ Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,aws,docker,vercel" alt="Database and Cloud"/>
+</p>
 
----
-
-### 🛒 **Atelier Boutique - Luxury E-Commerce Platform**
-*Full-Stack Project*
-
-Modern, fully-functional e-commerce platform for luxury accessories and gifts with real-time inventory management.
-
-**Tech Stack:** React | Firebase | Tailwind CSS | Vercel | Node.js
-
-**Features:**
-- 🎨 Stunning dark/luxury UI with smooth animations
-- 🛍️ Complete shopping cart with real-time updates
-- 👤 User authentication & order history
-- 💳 Payment integration ready (Razorpay)
-- 📱 Fully responsive mobile design
-- 🚀 Deployed on Vercel (live & production-ready)
-
-[🌐 Live Site](https://atelier-boutique.vercel.app/) | [🔗 Repository](https://github.com/harytechie/atelier-boutique)
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/>
+</p>
 
 ---
 
-### 📊 **Student Performance Analysis System**
-*ML Project*
+## 🔥 Featured Projects
 
-Predictive analytics platform for analyzing student performance using Random Forest models and Flask backend.
+<table>
+<tr>
+<td width="50%">
 
-**Tech Stack:** Flask | Random Forest | Scikit-learn | MySQL | Bootstrap
+### 🚗 AI Vehicle Analysis
+**YOLOv8 + ByteTrack + Python**
 
-**Capabilities:**
-- 📈 Predict student performance based on multiple factors
-- 🎯 Feature importance analysis
-- 📊 Interactive visualizations & reports
-- 🔐 User authentication & role-based access
+Real-time vehicle detection, counting and crossing-time analysis.
 
-[🔗 Repository](https://github.com/harytechie/student-performance-analysis)
+🔗 [View Repository](https://github.com/harytechie/AI-Based-Vehicle-Counting-and-Crossing-Time-Analysis-System)
+
+</td>
+
+<td width="50%">
+
+### 📈 NiftyForecaster
+**Python + Machine Learning**
+
+Analyzes NIFTY 50 5-minute market data and predicts the next 15-minute movement direction.
+
+🔗 [View Repository](https://github.com/harytechie/NiftyForecaster)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 CO → PO Semantic Mapping
+**React + Python + NLP**
+
+AI-assisted semantic mapping of Course Outcomes to Program Outcomes using transformer-based similarity.
+
+🔗 [View GitHub](https://github.com/harytechie)
+
+</td>
+
+<td width="50%">
+
+### 🛒 E-Commerce Platform
+**React + Firebase**
+
+Responsive full-stack shopping experience with authentication, cart and cloud-backed data.
+
+🔗 [Portfolio](https://portfolio-rwzg.vercel.app/)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🩸 **HemoConnect - Blood Donation Management System**
-*Full-Stack Application*
-
-Complete blood donation management platform connecting donors and recipients with smart matching algorithms.
-
-**Tech Stack:** Spring Boot | React | MySQL (migrating to PostgreSQL) | JWT Auth
-
-**Features:**
-- 🔍 Smart blood group matching
-- 📱 Donor/Recipient profile management
-- 📍 Location-based filtering
-- 📧 Automated notifications
-- 📊 Admin dashboard with analytics
-
-[🔗 Repository](#) | Status: In Active Development
-
----
-
-## 📈 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harytechie&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00D9FF&icon_color=00D9FF)](https://github.com/harytechie)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harytechie&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="GitHub Stats"/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harytechie&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00D9FF)](https://github.com/harytechie)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harytechie&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=harytechie&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🐍 Contribution Activity
 
 <div align="center">
 
-| Achievement | Details |
-|-------------|---------|
-| 🏅 **Rajya Puraskar Award** | Bharat Scouts and Guides |
-| ☁️ **AWS Cloud Foundations** | Certified (2024) |
-| 📚 **CGPA: 8.2/10** | Final Year CS Engineering Student |
-| 🎓 **EGS Pillay Engineering College** | Anna University Affiliated |
+<img src="https://raw.githubusercontent.com/harytechie/harytechie/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </div>
 
 ---
 
-## 💼 Expertise Areas
-
-```
-🎯 AI/ML Development
-├── Computer Vision (YOLOv8, OpenCV)
-├── Time Series Analysis & Forecasting
-├── Medical Image Analysis
-├── Deep Learning (PyTorch, TensorFlow)
-└── Model Optimization & Deployment
-
-🌐 Full-Stack Web Development
-├── React Frontend Development
-├── Spring Boot & Node.js Backend
-├── Database Design (SQL & NoSQL)
-├── Cloud Deployment (Vercel, AWS)
-└── Authentication & Security
-
-🤖 Edge Computing & IoT
-├── Raspberry Pi Development
-├── Real-time Processing
-├── Embedded Systems
-└── Hardware Integration
-
-📊 Data Science & Analytics
-├── Statistical Analysis
-├── Data Visualization
-├── Exploratory Data Analysis
-└── Business Intelligence
-```
-
----
-
-## 📚 Currently Learning
-
-- 🔬 Advanced PyTorch for production ML systems
-- 🏗️ Microservices architecture with Spring Boot
-- 📡 GraphQL for API development
-- 🔐 Advanced security patterns in web apps
-- 🚀 Kubernetes & Docker orchestration
-- 💾 Database optimization & sharding
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in:
-- 🔬 Collaborative AI/ML projects
-- 🌐 Full-stack development opportunities
-- 📱 Open-source contributions
-- 💬 Knowledge sharing & mentoring
-- 🚀 Internship & career opportunities
-
-**Feel free to reach out!**
+## 🎯 What I'm Working On
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=social&logo=github)](https://github.com/harytechie)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://linkedin.com/in/hari-haran-749aa92b4)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=social&logo=vercel)](https://portfolio-rwzg.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Message-EA4335?style=social&logo=gmail)](mailto:haryharan26@gmail.com)
+| Area | Focus |
+|------|-------|
+| 🤖 AI / ML | Computer Vision, NLP, Prediction Systems |
+| 🌐 Full Stack | React, Spring Boot, Flask, REST APIs |
+| 🗄️ Data | MySQL, PostgreSQL, Firebase, Supabase |
+| ☁️ Deployment | AWS, Docker, Vercel |
+| 🧩 Problem Solving | DSA, OOP, System Design |
+
+</div>
+
+---
+
+## 🏆 Highlights
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=harytechie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://portfolio-rwzg.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge" alt="Portfolio"/>
+</a>
+
+<a href="https://linkedin.com/in/hari-haran-749aa92b4">
+<img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:haryharan26@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge" alt="Email"/>
+</a>
 
 </div>
 
@@ -253,10 +199,8 @@ I'm always interested in:
 
 <div align="center">
 
-### ⭐ If you find my work interesting, please give it a star! It motivates me to build more cool projects.
+### 💡 Build. Learn. Ship. Repeat. 🚀
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=harytechie.harytechie)
-
-**Made with ❤️ by Hariharan**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=120&section=footer" alt="Footer"/>
 
 </div>
