@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Hariharan
 
-<!--
-**harytechie/harytechie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-Year Computer Science Engineering Student
+💻 Full-Stack Developer | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 Currently working on AI/ML and Full-Stack projects
+* 🌱 Learning advanced Java, React, Python and Machine Learning
+* 💡 Interested in Web Development, AI and Data Analysis
+* 📫 Open to internships and software development opportunities
+
+### 🛠️ Technologies
+
+**Languages:** Java, Python, C, JavaScript
+
+**Frontend:** React, HTML, CSS
+
+**Backend:** Spring Boot, Node.js, Flask
+
+**Database:** MySQL, PostgreSQL, Firebase, Supabase
+
+**Tools:** Git, GitHub, VS Code
+
+### 📌 Featured Projects
+
+* 🤖 AI Vehicle Detection — YOLOv8 + ByteTrack
+* 🛒 Full-Stack E-Commerce Platform — React + Firebase
+* 🧠 AI-Powered CO-PO Semantic Mapping Tool
+* 🌐 Personal Portfolio Website
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+### 🔗 Connect With Me
+
+* LinkedIn
+* GitHub
+* Portfolio
